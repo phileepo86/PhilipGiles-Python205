@@ -1,7 +1,7 @@
 # PhilipGiles-Python205
 
 Learning Python:- 
-This contains work for from the past four weeks. 
+This Repository contains work from the past four weeks. 
 
 Week 1 - Chatbot 
 Week 2 - Graphics
